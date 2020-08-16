@@ -6,6 +6,9 @@ Upgrade version Firefox Developer Edition(Version 80.0b6)
 **12.08.2020**
 Update version (Version 80.0b7)
 
+**16.08.2020**
+Update version to Firefox Developer Edition. (Version 80.0b8) 
+
 ### Installation 
 
 Create workspace
