@@ -24,7 +24,7 @@ cd Firefox-Developer-Edition
 Download Firefox Developer Source Code
 
 ```
-wget https://download-installer.cdn.mozilla.net/pub/devedition/releases/80.0b7/linux-x86_64/tr/firefox-80.0b7.tar.bz2
+wget https://download-installer.cdn.mozilla.net/pub/devedition/releases/80.0b8/linux-x86_64/tr/firefox-80.0b8.tar.bz2
 
 bzip2 -d firefox-80.0b7.tar.bz2
 tar xvf firefox-80.0b7.tar
